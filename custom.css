@@ -1,0 +1,44 @@
+ /*#mydiv{
+        display: flex;
+        justify-content: center;
+    color: blue;
+}
+#div2{
+    background-color: rgb(76, 26, 228);
+    display: flex;
+    justify-content: flex-start;
+    height:50px;
+    width:50px;
+    font-size: 20px;
+    color: rgb(0, 255, 8);   
+}
+#div3{
+    background-color: rgb(9, 4, 24);
+    display: flex;
+    align-items: flex-end;
+    height:50px;
+    width:50px;
+    font-size: 20px;
+    color: rgb(0, 255, 8);   
+}
+#div4{
+    background-color: rgb(195, 27, 131);
+    display: flex;
+    align-items: center;
+    text-shadow:1px 1px blue;
+    height:50px;
+    width:50px;
+    font-size : 20px;
+    color: rgb(0, 255, 8);   
+}*/
+
+.new{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    background-color: black;
+    font-size: 200px;
+    color: aliceblue;
+    text-shadow: 2px 2px violet;
+    display: flex;
+    justify-content: center;
+}

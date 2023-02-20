@@ -1,0 +1,5 @@
+git init
+git remote add origin paste command of server
+
+add files: git add .(to add all files)
+           git add filename
