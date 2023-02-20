@@ -1,5 +1,7 @@
-git init
-git remote add origin paste command of server
+1)git init
+2)git remote add origin paste command of server
 
-add files: git add .(to add all files)
+3)add files: git add .(to add all files)not directly into server but into staging area which is temporary space
            git add filename
+4)commit: git commit -m "my first commit"( m stands for msg and message is mandatory)
+5)pushing files: git push origin master
