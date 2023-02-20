@@ -5,3 +5,15 @@
            git add filename
 4)commit: git commit -m "my first commit"( m stands for msg and message is mandatory)
 5)pushing files: git push origin master
+
+git is used to deploy sites on the server
+master is a parent branch/default branch where it contains error free or bug free code
+
+To create branch of ur name:
+
+git branch Name
+do all 3 operations again i.e.,3,4,5
+
+move from one branch to another
+
+git checkout name
